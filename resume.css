@@ -1,0 +1,30 @@
+.CV{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+.CV img{
+    margin: 10px;
+}
+h1{
+    margin: 10px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    height: 12vh;
+    margin-top: 4rem;
+    padding: 1.8rem 30rem;
+    background: var(--main-color);
+    color: #d41818;
+    cursor: pointer;
+    font-size: 3.7rem;
+    border: blue solid 2px
+}
+.btn:hover{
+    background-color: aqua;
+    letter-spacing: .2rem;
+}

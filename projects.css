@@ -1,0 +1,67 @@
+.first_section{
+    display: flex;
+    flex-direction: row;
+}
+.FED{
+    display: flex;
+    flex-direction: column;
+    margin-right: 6vw;
+}
+.FED h2{
+    font-size: 1.8rem;
+    margin-left: 3px;
+}
+.FED h3,a{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.container img{
+    width: 15vw;
+    height: 45vh;
+    margin: 2%;
+}
+.second_section{
+    display: flex;
+    flex-direction: row;
+}
+.python{
+    display: flex;
+    flex-direction: column;
+    margin-right: 8vw;
+}
+.python h3,p{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.python h2{
+    font-size: 2rem;
+    margin-left: 3px;
+}
+.python p{
+    color: blue;
+}
+.third_section{
+    display: flex;
+    flex-direction: row;
+}
+.AI{
+    display: flex;
+    flex-direction: column;
+    margin-right: 8vw;
+}
+.AI h3,p{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.AI h2{
+    font-size: 2rem;
+    margin-left: 3px;
+}
+.AI p{
+    color: blue;
+}

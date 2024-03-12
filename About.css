@@ -1,0 +1,121 @@
+.first-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 130px 0;
+}
+
+.left_part h1 {
+    text-align: center;
+    font-size: 2.1rem;
+    padding-bottom: 20px;
+
+}
+
+.about_desc p {
+    font-size: 1.3rem;
+    margin: 4px 20px;
+    word-spacing: 60%;
+}
+
+.purple {
+    color: purple;
+}
+
+strong {
+    font-weight: bolder;
+}
+
+.right_part img {
+    width: 40vw;
+    margin: auto;
+}
+
+.aboutactivity {
+    list-style: square;
+    padding: 15px 60px;
+    text-align: left;
+    font-size: 1.3rem;
+}
+
+.second-section{
+    text-align: center;
+    height: 60vh;
+    margin: 0px 0px
+}
+.second-section h1{
+    padding-top: 15px;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.second-section h5{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.skills{
+    justify-content: center;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.second-section img{
+    width: 10vw;
+} 
+.icons{
+    border: 1.7px solid rgba(200,137,230,.637)!important;
+    border-radius: 5px!important;
+    box-shadow: 4px 5px 4px 3px rgba(89,4,168,.137)!important;
+    display: table!important;
+    font-size: 4.5em!important;
+    margin: 15px!important;
+    opacity: .93!important;
+    overflow: hidden!important;
+    padding: 10px!important;
+    text-align: center!important;
+    transition: all .4s ease 0s!important;
+    vertical-align: middle!important;
+}
+.icons:hover {
+    border: 2.2px solid rgba(197,115,230,.883)!important;
+    overflow: hidden!important;
+    transform: scale(1.05)!important;
+}
+.tools{
+    justify-content: center;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.section-third{
+    text-align: center;
+    height: 90vh;
+    margin: 240px 0px;
+}
+.section-third h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.section-third img{
+    width: 10vw;
+}
+.section-third h5{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.section-third-first{
+    text-align: center;
+    height: 50vh;
+}
+.section-third-first h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.section-third-first img{
+    width: 11vw;
+}
+.section-third-first img{
+    height: 10vw;
+}
+.section-third-first h5{
+    font-size: 1rem;
+    font-weight: bolder;
+}
